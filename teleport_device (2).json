@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OEO",
+    "PCP",
+    "ODO"
+  ],
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "E": { "item": "minecraft:ender_eye" },
+    "P": { "item": "minecraft:ender_pearl" },
+    "C": { "item": "minecraft:compass" },
+    "D": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "item": "teleportdevice:teleport_device",
+    "count": 1
+  }
+}
